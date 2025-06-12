@@ -501,134 +501,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=Rusi
 https://smart.pendy.dpdns.org/Smart.php?id=Wion
 #EXTINF:-1 ,RTM Asean
 https://smart.pendy.dpdns.org/Smart.php?id=Rtmasean
-#EXTINF:-1 ,====== 印尼频道,#genre# ======
-http://11/11.m3u8
-#EXTINF:-1 ,TVRI National
-https://smart.pendy.dpdns.org/Smart.php?id=TVRI
-#EXTINF:-1 ,RCTI
-https://smart.pendy.dpdns.org/Smart.php?id=Rcti
-#EXTINF:-1 ,Kompass TV
-https://smart.pendy.dpdns.org/Smart.php?id=Kompass
-#EXTINF:-1 ,Berita Satu
-https://smart.pendy.dpdns.org/Smart.php?id=BeritaSatu_eko
-#EXTINF:-1 ,Indosiar HD
-https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
-#EXTINF:-1 ,AnTV
-https://smart.pendy.dpdns.org/Smart.php?id=Antv
-#EXTINF:-1 ,MNC TV
-https://smart.pendy.dpdns.org/Smart.php?id=Mnctv
-#EXTINF:-1 ,Trans 7
-https://smart.pendy.dpdns.org/Smart.php?id=Trans7_eko
-#EXTINF:-1 ,Transtv
-https://smart.pendy.dpdns.org/Smart.php?id=Transtv
-#EXTINF:-1 ,JTV
-https://smart.pendy.dpdns.org/Smart.php?id=JTV_eko
-#EXTINF:-1 ,Metro TV
-https://smart.pendy.dpdns.org/Smart.php?id=metrotv_eko
-#EXTINF:-1 ,SCTV
-https://smart.pendy.dpdns.org/Smart.php?id=SCTV
-#EXTINF:-1 ,Tvone
-https://smart.pendy.dpdns.org/Smart.php?id=Tvone
-#EXTINF:-1 ,TVMU
-https://smart.pendy.dpdns.org/Smart.php?id=TVMU_eko
-#EXTINF:-1 ,GTV
-https://smart.pendy.dpdns.org/Smart.php?id=Gtv
-#EXTINF:-1 ,RTV
-https://smart.pendy.dpdns.org/Smart.php?id=Rtv
-#EXTINF:-1 ,Jak TV
-https://smart.pendy.dpdns.org/Smart.php?id=JakTV
-#EXTINF:-1 ,iNews TV
-https://smart.pendy.dpdns.org/Smart.php?id=Inewstv
-#EXTINF:-1 ,Daai TV
-https://smart.pendy.dpdns.org/Smart.php?id=DaaiTV
-#EXTINF:-1 ,Net TV
-https://smart.pendy.dpdns.org/Smart.php?id=NetTV
-#EXTINF:-1 ,EWTN
-https://smart.pendy.dpdns.org/Smart.php?id=Ewtn
-#EXTINF:-1 ,AlQuran AlKareem
-https://smart.pendy.dpdns.org/Smart.php?id=AlQuran
-#EXTINF:-1 ,Tawaf TV
-https://smart.pendy.dpdns.org/Smart.php?id=TawafTV
-#EXTINF:-1 ,Vision Prime
-https://smart.pendy.dpdns.org/Smart.php?id=VisionPrime
-#EXTINF:-1 ,Muslim TV
-https://smart.pendy.dpdns.org/Smart.php?id=MuslimTV
-#EXTINF:-1 ,Music TV
-https://smart.pendy.dpdns.org/Smart.php?id=MusicTV
-#EXTINF:-1 ,Lifestyle&Fashion
-https://smart.pendy.dpdns.org/Smart.php?id=Lifestyle
-#EXTINF:-1 ,Entertain
-https://smart.pendy.dpdns.org/Smart.php?id=Entertain
-#EXTINF:-1 ,====== 印度频道,#genre# ======
-http://12/12.m3u8
-#EXTINF:-1 ,Sun TV HD
-https://smart.pendy.dpdns.org/Smart.php?id=Suntv
-#EXTINF:-1 ,Star Vijay
-https://smart.pendy.dpdns.org/Smart.php?id=Starvijay
-#EXTINF:-1 ,Colors Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=Colorstam
-#EXTINF:-1 ,Sun Music
-https://smart.pendy.dpdns.org/Smart.php?id=Sunmusic
-#EXTINF:-1 ,Astro Sunlife
-https://smart.pendy.dpdns.org/Smart.php?id=Sunlife
-#EXTINF:-1 ,Astro Vaanavil
-https://smart.pendy.dpdns.org/Smart.php?id=Vaanavil
-#EXTINF:-1 ,Zee Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=Zeetamil
-#EXTINF:-1 ,Zee Business
-https://smart.pendy.dpdns.org/Smart.php?id=Zeebusiness
-#EXTINF:-1 ,News 18 Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=news18tamil_raj
-#EXTINF:-1 ,Adithya
-https://smart.pendy.dpdns.org/Smart.php?id=Adithya
-#EXTINF:-1 ,Makkal TV
-https://smart.pendy.dpdns.org/Smart.php?id=Makkaltv
-#EXTINF:-1 ,Zee Action
-https://smart.pendy.dpdns.org/Smart.php?id=Zeeaction
-#EXTINF:-1 ,Astro KTV
-https://smart.pendy.dpdns.org/Smart.php?id=Astroktv
-#EXTINF:-1 ,Zee TV HD
-https://smart.pendy.dpdns.org/Smart.php?id=Zeetvhd
-#EXTINF:-1 ,Zee Cinema HD
-https://smart.pendy.dpdns.org/Smart.php?id=Zeecinemahd
-#EXTINF:-1 ,Color HD
-https://smart.pendy.dpdns.org/Smart.php?id=Colorhd
-#EXTINF:-1 ,Starplus HD
-https://smart.pendy.dpdns.org/Smart.php?id=Starplushd
-#EXTINF:-1 ,Picture HD
-https://smart.pendy.dpdns.org/Smart.php?id=Npicture
-#EXTINF:-1 ,Zee News
-https://smart.pendy.dpdns.org/Smart.php?id=Zeenews
-#EXTINF:-1 ,Asianet
-https://smart.pendy.dpdns.org/Smart.php?id=asianet_raj
-#EXTINF:-1 ,Asianet News
-https://smart.pendy.dpdns.org/Smart.php?id=asianetnews_raj
-#EXTINF:-1 ,Discovery World Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=discoveryworldtam_raj
-#EXTINF:-1 ,History Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=historytam_raj
-#EXTINF:-1 ,NatGeo Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=natgeotamil_raj
-#EXTINF:-1 ,Natgeo Wild Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=natgeowildtamil_raj
-#EXTINF:-1 ,Discovery Kids Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=discoverykidtamil_raj
-#EXTINF:-1 ,Discovery Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=discoverytamil_raj
-#EXTINF:-1 ,Sony Yay Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=sonyyaytam_raj
-#EXTINF:-1 ,Sun TV India
-https://smart.pendy.dpdns.org/Smart.php?id=suntv_raj
-#EXTINF:-1 ,Starmaa HD
-https://smart.pendy.dpdns.org/Smart.php?id=starmaa_raj
-#EXTINF:-1 ,Starmaa Movies HD
-https://smart.pendy.dpdns.org/Smart.php?id=starmaamovies_raj
-#EXTINF:-1 ,Bollyone
-https://smart.pendy.dpdns.org/Smart.php?id=Bollyone
-#EXTINF:-1 ,Vijay Super
-https://smart.pendy.dpdns.org/Smart.php?id=vijaysuper_raj
-#EXTINF:-1 ,Vellithirai
-https://smart.pendy.dpdns.org/Smart.php?id=Vellithirai
+
+
 #EXTINF:-1 ,====== 泰国频道,#genre# ======
 http://13/13.m3u8
 #EXTINF:-1 ,Channel 3 Thailand
@@ -693,32 +567,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=euronews_antik
 https://smart.pendy.dpdns.org/Smart.php?id=channel4_antik
 #EXTINF:-1 ,BBC World News
 https://smart.pendy.dpdns.org/Smart.php?id=bbcworldnews_antik
-#EXTINF:-1 ,====== 越南频道,#genre# ======
-http://15/15.m3u8
-#EXTINF:-1 ,ANTV
-https://smart.pendy.dpdns.org/Smart.php?id=viet_antv
-#EXTINF:-1 ,VTV 1
-https://smart.pendy.dpdns.org/Smart.php?id=viet_vtv1
-#EXTINF:-1 ,VTV 7
-https://smart.pendy.dpdns.org/Smart.php?id=viet_vtv7
-#EXTINF:-1 ,HTV 7
-https://smart.pendy.dpdns.org/Smart.php?id=viet_htv7
-#EXTINF:-1 ,HTV 9
-https://smart.pendy.dpdns.org/Smart.php?id=viet_htv9
-#EXTINF:-1 ,BPTV 2
-https://smart.pendy.dpdns.org/Smart.php?id=viet_bptv2
-#EXTINF:-1 ,BRT HD
-https://smart.pendy.dpdns.org/Smart.php?id=viet_brt
-#EXTINF:-1 ,Ca Mau TV
-https://smart.pendy.dpdns.org/Smart.php?id=viet_camautv
-#EXTINF:-1 ,Danang TV1 HD
-https://smart.pendy.dpdns.org/Smart.php?id=viet_danangtv1
-#EXTINF:-1 ,Danang TV2 HD
-https://smart.pendy.dpdns.org/Smart.php?id=viet_danangtv2
-#EXTINF:-1 ,HBTV HD
-https://smart.pendy.dpdns.org/Smart.php?id=viet_hbtv
-#EXTINF:-1 ,PTTH 1
-https://smart.pendy.dpdns.org/Smart.php?id=viet_ptth1
+
 #EXTINF:-1 ,====== 韩国频道,#genre# ======
 http://16/16.m3u8
 #EXTINF:-1 ,Arirang HD
@@ -755,31 +604,4 @@ https://smart.pendy.dpdns.org/Smart.php?id=jthekpop_korea
 https://smart.pendy.dpdns.org/Smart.php?id=ebskids_korea
 #EXTINF:-1 ,CGNTV
 https://smart.pendy.dpdns.org/Smart.php?id=cgntv_korea
-#EXTINF:-1 ,====== 日本频道,#genre# ======
-http://17/17.m3u8
-#EXTINF:-1 ,NHK-総合-2
-https://smart.pendy.dpdns.org/Smart.php?id=nhkg_japan
-#EXTINF:-1 ,NHK-E
-https://smart.pendy.dpdns.org/Smart.php?id=nhke_japan
-#EXTINF:-1 ,テレビ朝日 Asahi TV
-https://smart.pendy.dpdns.org/Smart.php?id=asahitv_japan
-#EXTINF:-1 ,JET 綜合
-https://smart.pendy.dpdns.org/Smart.php?id=jettv_japan
-#EXTINF:-1 ,テレビ東京 Tokyo TV
-https://smart.pendy.dpdns.org/Smart.php?id=tokyotv_japan
-#EXTINF:-1 ,TOKYOMX
-https://smart.pendy.dpdns.org/Smart.php?id=tokyomx_japan
-#EXTINF:-1 ,NHKBS1
-https://smart.pendy.dpdns.org/Smart.php?id=nhkbs1_japan
-#EXTINF:-1 ,NHKBSプレミア Premium
-https://smart.pendy.dpdns.org/Smart.php?id=nhkpremium_japan
-#EXTINF:-1 ,BSジャパン 181
-https://smart.pendy.dpdns.org/Smart.php?id=bs181_japan
-#EXTINF:-1 ,BSフジ BS Fuji
-https://smart.pendy.dpdns.org/Smart.php?id=bsfuji_japan
-#EXTINF:-1 ,CNA Japan
-https://smart.pendy.dpdns.org/Smart.php?id=cna_japan
-#EXTINF:-1 ,BS-TBS
-https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
-#EXTINF:-1 ,NHK Oaska
-https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
+
