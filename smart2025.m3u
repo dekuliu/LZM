@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 ,====== 香港频道,#genre# ======
 http://0/0.m3u8
 #EXTINF:-1 ,翡翠台
@@ -94,96 +95,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=sichuan_twn
 https://smart.pendy.dpdns.org/Smart.php?id=dongfangweishi_twn
 #EXTINF:-1 ,CGTN
 https://smart.pendy.dpdns.org/Smart.php?id=CGTN
-#EXTINF:-1 ,====== 体育频道,#genre# ======
-http://3/3.m3u8
-#EXTINF:-1 ,Astro Premier League 1
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
-#EXTINF:-1 ,Astro EPL 1 backup
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp1x
-#EXTINF:-1 ,Astro Premier League 2
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
-#EXTINF:-1 ,Astro Grandstand
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
-#EXTINF:-1 ,Astro Football
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
-#EXTINF:-1 ,Astro Sports Plus
-https://smart.pendy.dpdns.org/Smart.php?id=go_sportsplus
-#EXTINF:-1 ,Astro Badminton 1
-https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
-#EXTINF:-1 ,Astro Badminton 2
-https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
-#EXTINF:-1 ,Astro W-Sports
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
-#EXTINF:-1 ,Supersports 1
-https://smart.pendy.dpdns.org/Smart.php?id=Assp1
-#EXTINF:-1 ,Supersports 2
-https://smart.pendy.dpdns.org/Smart.php?id=Assp2
-#EXTINF:-1 ,Supersports 3
-https://smart.pendy.dpdns.org/Smart.php?id=Assp3
-#EXTINF:-1 ,Supersports 4
-https://smart.pendy.dpdns.org/Smart.php?id=Assp4
-#EXTINF:-1 ,WWE
-https://smart.pendy.dpdns.org/Smart.php?id=Wwe
-#EXTINF:-1 ,Fight Sports
-https://smart.pendy.dpdns.org/Smart.php?id=Fs
-#EXTINF:-1 ,NBA TV
-https://smart.pendy.dpdns.org/Smart.php?id=Nba
-#EXTINF:-1 ,Astro Cricket
-https://smart.pendy.dpdns.org/Smart.php?id=Acricket
-#EXTINF:-1 ,Astro Golf
-https://smart.pendy.dpdns.org/Smart.php?id=Agolf
-#EXTINF:-1 ,Tnt Sports 1
-https://smart.pendy.dpdns.org/Smart.php?id=6fac0aaead
-#EXTINF:-1 ,TNT Sports 2
-https://smart.pendy.dpdns.org/Smart.php?id=d9a76a79cc
-#EXTINF:-1 ,TNT Sports 3
-https://smart.pendy.dpdns.org/Smart.php?id=5fea4d73db
-#EXTINF:-1 ,TNT Sports 4
-https://smart.pendy.dpdns.org/Smart.php?id=tntsport4
-#EXTINF:-1 ,Sony Ten 1
-https://smart.pendy.dpdns.org/Smart.php?id=ten1_raj
-#EXTINF:-1 ,Sony Ten 2
-https://smart.pendy.dpdns.org/Smart.php?id=ten2_raj
-#EXTINF:-1 ,Sony Ten 3
-https://smart.pendy.dpdns.org/Smart.php?id=ten3_raj
-#EXTINF:-1 ,SPOTV 1 HD
-https://smart.pendy.dpdns.org/Smart.php?id=go_spotv
-#EXTINF:-1 ,SPO TV 2
-https://smart.pendy.dpdns.org/Smart.php?id=go_spotv2
-#EXTINF:-1 ,Skysports F1
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongf1
-#EXTINF:-1 ,Skysports Cricket
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongcricket
-#EXTINF:-1 ,Skysports EPL
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongepl
-#EXTINF:-1 ,Skysports Main Event
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongmain
-#EXTINF:-1 ,Skysports News
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongnews
-#EXTINF:-1 ,Skysports Mix
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongmix
-#EXTINF:-1 ,爱尔达体育2台
-https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
-#EXTINF:-1 ,爱尔达体育3台
-https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
-#EXTINF:-1 ,Rugby Pass TV
-https://smart.pendy.dpdns.org/Smart.php?id=Rugbypasstv
-#EXTINF:-1 ,RTM Sports HD
-https://smart.pendy.dpdns.org/Smart.php?id=Rtmsport
-#EXTINF:-1 ,Arena
-https://smart.pendy.dpdns.org/Smart.php?id=Arena
-#EXTINF:-1 ,Arena 2
-https://smart.pendy.dpdns.org/Smart.php?id=Arena2
-#EXTINF:-1 ,BolaArena 1
-https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
-#EXTINF:-1 ,BolaArena 2
-https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
-#EXTINF:-1 ,Astro Beinsports 1
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein1
-#EXTINF:-1 ,Astro Beinsports 2
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein2
-#EXTINF:-1 ,Astro Beinsports 3
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
+
 #EXTINF:-1 ,====== 台湾频道,#genre# ======
 http://4/4.m3u8
 #EXTINF:-1 ,TVBS News 新闻台
@@ -343,8 +255,68 @@ https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
 #EXTINF:-1 ,AFC 亚洲旅游台
 https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
 
+#EXTINF:-1 ,====== 记录频道,#genre# ======
+http://6/6.m3u8
+#EXTINF:-1 ,Natgeo_HD
+https://smart.pendy.dpdns.org/Smart.php?id=natgeohd_twn
+#EXTINF:-1 ,NatGeo_Wild HD
+https://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
+#EXTINF:-1 ,Animal_Planet
+https://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
+#EXTINF:-1 ,Discovery Asia
+https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
+#EXTINF:-1 ,CI
+https://smart.pendy.dpdns.org/Smart.php?id=ci_twn
+#EXTINF:-1 ,Discovery HD
+https://smart.pendy.dpdns.org/Smart.php?id=discoveryhd_twn
+#EXTINF:-1 ,NatGeo HD
+https://smart.pendy.dpdns.org/Smart.php?id=Natgeo
+#EXTINF:-1 ,Fashion TV
+https://smart.pendy.dpdns.org/Smart.php?id=fashiontv_twn
+#EXTINF:-1 ,History
+https://smart.pendy.dpdns.org/Smart.php?id=History
+#EXTINF:-1 ,BBC Earth HD
+https://smart.pendy.dpdns.org/Smart.php?id=bbcearth_twn
+#EXTINF:-1 ,BBC Earth Lifestyle
+https://smart.pendy.dpdns.org/Smart.php?id=bbclifestyle_twn
+#EXTINF:-1 ,NatGeo Wild HD
+https://smart.pendy.dpdns.org/Smart.php?id=Natgeowild
+#EXTINF:-1 ,Animal Planet (Eng)
+https://smart.pendy.dpdns.org/Smart.php?id=AnimalPlanet
+#EXTINF:-1 ,TLC
+https://smart.pendy.dpdns.org/Smart.php?id=Tlc
+#EXTINF:-1 ,Foodnetwork Hd
+https://smart.pendy.dpdns.org/Smart.php?id=Foodnetwork
+#EXTINF:-1 ,HGTV
+https://smart.pendy.dpdns.org/Smart.php?id=HGTV
 
 
+#EXTINF:-1 ,====== 新加坡频道,#genre# ======
+http://9/9.m3u8
+#EXTINF:-1 ,Channel 5
+https://smart.pendy.dpdns.org/Smart.php?id=Channel5HD
+#EXTINF:-1 ,Channel 8
+https://smart.pendy.dpdns.org/Smart.php?id=Channel8HD
+#EXTINF:-1 ,Suria
+https://smart.pendy.dpdns.org/Smart.php?id=Suria
+#EXTINF:-1 ,Channel U
+https://smart.pendy.dpdns.org/Smart.php?id=ChannelU
+#EXTINF:-1 ,Vasantham
+https://smart.pendy.dpdns.org/Smart.php?id=Vasantham
+#EXTINF:-1 ,CNA backup
+https://smart.pendy.dpdns.org/Smart.php?id=cna_twn
+#EXTINF:-1 ,MeWatch Ch 5
+https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_ch5
+#EXTINF:-1 ,MeWatch Ch 8
+https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_ch8
+#EXTINF:-1 ,MeWatch Ch U
+https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_chU
+#EXTINF:-1 ,MeWatch Suria
+https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_Suria
+#EXTINF:-1 ,MeWatch Vasantham
+https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_Vasantham
+#EXTINF:-1 ,MeWatch CNA
+https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_cna
 #EXTINF:-1 ,====== 马来西亚频道,#genre# ======
 http://10/10.m3u8
 #EXTINF:-1 ,TV1
@@ -507,76 +479,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=MusicTV
 https://smart.pendy.dpdns.org/Smart.php?id=Lifestyle
 #EXTINF:-1 ,Entertain
 https://smart.pendy.dpdns.org/Smart.php?id=Entertain
-#EXTINF:-1 ,====== 印度频道,#genre# ======
-http://12/12.m3u8
-#EXTINF:-1 ,Sun TV HD
-https://smart.pendy.dpdns.org/Smart.php?id=Suntv
-#EXTINF:-1 ,Star Vijay
-https://smart.pendy.dpdns.org/Smart.php?id=Starvijay
-#EXTINF:-1 ,Colors Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=Colorstam
-#EXTINF:-1 ,Sun Music
-https://smart.pendy.dpdns.org/Smart.php?id=Sunmusic
-#EXTINF:-1 ,Astro Sunlife
-https://smart.pendy.dpdns.org/Smart.php?id=Sunlife
-#EXTINF:-1 ,Astro Vaanavil
-https://smart.pendy.dpdns.org/Smart.php?id=Vaanavil
-#EXTINF:-1 ,Zee Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=Zeetamil
-#EXTINF:-1 ,Zee Business
-https://smart.pendy.dpdns.org/Smart.php?id=Zeebusiness
-#EXTINF:-1 ,News 18 Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=news18tamil_raj
-#EXTINF:-1 ,Adithya
-https://smart.pendy.dpdns.org/Smart.php?id=Adithya
-#EXTINF:-1 ,Makkal TV
-https://smart.pendy.dpdns.org/Smart.php?id=Makkaltv
-#EXTINF:-1 ,Zee Action
-https://smart.pendy.dpdns.org/Smart.php?id=Zeeaction
-#EXTINF:-1 ,Astro KTV
-https://smart.pendy.dpdns.org/Smart.php?id=Astroktv
-#EXTINF:-1 ,Zee TV HD
-https://smart.pendy.dpdns.org/Smart.php?id=Zeetvhd
-#EXTINF:-1 ,Zee Cinema HD
-https://smart.pendy.dpdns.org/Smart.php?id=Zeecinemahd
-#EXTINF:-1 ,Color HD
-https://smart.pendy.dpdns.org/Smart.php?id=Colorhd
-#EXTINF:-1 ,Starplus HD
-https://smart.pendy.dpdns.org/Smart.php?id=Starplushd
-#EXTINF:-1 ,Picture HD
-https://smart.pendy.dpdns.org/Smart.php?id=Npicture
-#EXTINF:-1 ,Zee News
-https://smart.pendy.dpdns.org/Smart.php?id=Zeenews
-#EXTINF:-1 ,Asianet
-https://smart.pendy.dpdns.org/Smart.php?id=asianet_raj
-#EXTINF:-1 ,Asianet News
-https://smart.pendy.dpdns.org/Smart.php?id=asianetnews_raj
-#EXTINF:-1 ,Discovery World Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=discoveryworldtam_raj
-#EXTINF:-1 ,History Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=historytam_raj
-#EXTINF:-1 ,NatGeo Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=natgeotamil_raj
-#EXTINF:-1 ,Natgeo Wild Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=natgeowildtamil_raj
-#EXTINF:-1 ,Discovery Kids Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=discoverykidtamil_raj
-#EXTINF:-1 ,Discovery Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=discoverytamil_raj
-#EXTINF:-1 ,Sony Yay Tamil
-https://smart.pendy.dpdns.org/Smart.php?id=sonyyaytam_raj
-#EXTINF:-1 ,Sun TV India
-https://smart.pendy.dpdns.org/Smart.php?id=suntv_raj
-#EXTINF:-1 ,Starmaa HD
-https://smart.pendy.dpdns.org/Smart.php?id=starmaa_raj
-#EXTINF:-1 ,Starmaa Movies HD
-https://smart.pendy.dpdns.org/Smart.php?id=starmaamovies_raj
-#EXTINF:-1 ,Bollyone
-https://smart.pendy.dpdns.org/Smart.php?id=Bollyone
-#EXTINF:-1 ,Vijay Super
-https://smart.pendy.dpdns.org/Smart.php?id=vijaysuper_raj
-#EXTINF:-1 ,Vellithirai
-https://smart.pendy.dpdns.org/Smart.php?id=Vellithirai
+
 #EXTINF:-1 ,====== 泰国频道,#genre# ======
 http://13/13.m3u8
 #EXTINF:-1 ,Channel 3 Thailand
@@ -618,6 +521,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=new_pat
 #EXTINF:-1 ,TPTV
 https://smart.pendy.dpdns.org/Smart.php?id=tptv_pat
 
+
 #EXTINF:-1 ,====== 韩国频道,#genre# ======
 http://16/16.m3u8
 #EXTINF:-1 ,Arirang HD
@@ -654,3 +558,5 @@ https://smart.pendy.dpdns.org/Smart.php?id=jthekpop_korea
 https://smart.pendy.dpdns.org/Smart.php?id=ebskids_korea
 #EXTINF:-1 ,CGNTV
 https://smart.pendy.dpdns.org/Smart.php?id=cgntv_korea
+
+
